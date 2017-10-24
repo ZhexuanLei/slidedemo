@@ -1,62 +1,46 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
-&nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 雷哲轩 (lzx1700011714@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/leizhexuan
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1.基本介绍</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+### 2. 兴趣爱好
 
-### 2. 第二部分
-
-### 3. 第三部分
+### 3. 联系方式
 
 ---
 
-## 第一部分
+## 基本介绍
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+姓名：雷哲轩
+性别：男
+家乡：湖北武汉
+性取向：异性恋
 
 ---
 
-## 插图
+## 兴趣爱好
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+篮球、羽球、骑车、举铁
+欢迎相同爱好的老铁们一起锻炼呀！
 
 ---
+## 联系方式
 
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+微信号：lzxbsktballchemcute
 
 ---
 
 class: center, middle
 
-# 谢谢
+# 谢谢!
